@@ -1,4 +1,4 @@
-Name,Hex,Red (8 bit),Green (8 bit),Blue (8 bit),Hue,HSL.S (%),"HSL.L (%), HSV.S (%), HSV.V (%)"
+Name,Hex,Red,Green,Blue,Hue,Saturation,Lightness
 Absolute zero,#0048BA,0,72,186,217,100,37
 Acid green,#B0BF1A,176,191,26,65,76,43
 Aero,#7CB9E8,124,185,232,206,70,70
